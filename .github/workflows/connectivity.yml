@@ -2,6 +2,9 @@ name: RAGTAG JSON snapshot
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'build_shortlist.py'
   schedule:
     - cron: '15 5 * * *' # Daily 05:15 UTC, before the ChatGPT check
 
@@ -26,6 +29,8 @@ jobs:
           if [ -f products.json ]; then cp products.json /tmp/ragtag-previous.json; fi
       - name: Fetch and split all men's blouson collections
         run: python fetch_catalog.py
+      - name: Build readable designer shortlist
+        run: python build_shortlist.py
       - name: Generate compact change report
         run: python monitor_changes.py
       - name: Commit snapshot
