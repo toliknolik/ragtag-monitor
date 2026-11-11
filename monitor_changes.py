@@ -67,7 +67,12 @@ def main():
     before=read_products(PREVIOUS)
     # Existing repository already had a snapshot. On the first run of this script,
     # establish the baseline without claiming that all catalog differences are new.
-    initialized=(ROOT/"catalog/changes.json").exists()
+    # Collection expansion changes coverage. Establish a fresh baseline rather than
+    # reporting every previously unmonitored listing as a new arrival.
+    prior_meta=json.loads(PREVIOUS.read_text()) if PREVIOUS.is_file() else {}
+    current_meta=json.loads(CURRENT.read_text())
+    same_coverage=(prior_meta.get("collections") == current_meta.get("collections"))
+    initialized=(ROOT/"catalog/changes.json").exists() and before is not None and same_coverage
     report={"checked_at_utc":datetime.now(timezone.utc).isoformat(),"total_products":len(current),
             "complete":True,"baseline_only":not initialized,"matches":[]}
     if initialized and before is not None:
