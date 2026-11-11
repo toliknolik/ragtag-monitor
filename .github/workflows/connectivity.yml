@@ -2,6 +2,8 @@ name: RAGTAG JSON snapshot
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '15 5 * * *' # Daily 05:15 UTC, before the ChatGPT check
 
 permissions:
   contents: write
@@ -19,6 +21,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Preserve previous complete snapshot for comparison
+        run: |
+          if [ -f products.json ]; then cp products.json /tmp/ragtag-previous.json; fi
       - name: Fetch and split complete Shopify JSON
         run: |
           python - <<'PY'
@@ -70,6 +75,8 @@ jobs:
               json.dumps({"total_products": len(products), "page_counts": page_counts, "parts": manifest}, indent=2) + "\n")
           print(f"Saved {len(products)} products across {len(manifest)} small files")
           PY
+      - name: Generate compact change report
+        run: python monitor_changes.py
       - name: Commit snapshot
         run: |
           git config user.name "github-actions[bot]"
