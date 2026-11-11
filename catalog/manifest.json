@@ -1,0 +1,349 @@
+{
+  "total_products": 421,
+  "page_counts": [
+    250,
+    171
+  ],
+  "parts": [
+    {
+      "file": "part-001.json",
+      "count": 5
+    },
+    {
+      "file": "part-002.json",
+      "count": 5
+    },
+    {
+      "file": "part-003.json",
+      "count": 5
+    },
+    {
+      "file": "part-004.json",
+      "count": 5
+    },
+    {
+      "file": "part-005.json",
+      "count": 5
+    },
+    {
+      "file": "part-006.json",
+      "count": 5
+    },
+    {
+      "file": "part-007.json",
+      "count": 5
+    },
+    {
+      "file": "part-008.json",
+      "count": 5
+    },
+    {
+      "file": "part-009.json",
+      "count": 5
+    },
+    {
+      "file": "part-010.json",
+      "count": 5
+    },
+    {
+      "file": "part-011.json",
+      "count": 5
+    },
+    {
+      "file": "part-012.json",
+      "count": 5
+    },
+    {
+      "file": "part-013.json",
+      "count": 5
+    },
+    {
+      "file": "part-014.json",
+      "count": 5
+    },
+    {
+      "file": "part-015.json",
+      "count": 5
+    },
+    {
+      "file": "part-016.json",
+      "count": 5
+    },
+    {
+      "file": "part-017.json",
+      "count": 5
+    },
+    {
+      "file": "part-018.json",
+      "count": 5
+    },
+    {
+      "file": "part-019.json",
+      "count": 5
+    },
+    {
+      "file": "part-020.json",
+      "count": 5
+    },
+    {
+      "file": "part-021.json",
+      "count": 5
+    },
+    {
+      "file": "part-022.json",
+      "count": 5
+    },
+    {
+      "file": "part-023.json",
+      "count": 5
+    },
+    {
+      "file": "part-024.json",
+      "count": 5
+    },
+    {
+      "file": "part-025.json",
+      "count": 5
+    },
+    {
+      "file": "part-026.json",
+      "count": 5
+    },
+    {
+      "file": "part-027.json",
+      "count": 5
+    },
+    {
+      "file": "part-028.json",
+      "count": 5
+    },
+    {
+      "file": "part-029.json",
+      "count": 5
+    },
+    {
+      "file": "part-030.json",
+      "count": 5
+    },
+    {
+      "file": "part-031.json",
+      "count": 5
+    },
+    {
+      "file": "part-032.json",
+      "count": 5
+    },
+    {
+      "file": "part-033.json",
+      "count": 5
+    },
+    {
+      "file": "part-034.json",
+      "count": 5
+    },
+    {
+      "file": "part-035.json",
+      "count": 5
+    },
+    {
+      "file": "part-036.json",
+      "count": 5
+    },
+    {
+      "file": "part-037.json",
+      "count": 5
+    },
+    {
+      "file": "part-038.json",
+      "count": 5
+    },
+    {
+      "file": "part-039.json",
+      "count": 5
+    },
+    {
+      "file": "part-040.json",
+      "count": 5
+    },
+    {
+      "file": "part-041.json",
+      "count": 5
+    },
+    {
+      "file": "part-042.json",
+      "count": 5
+    },
+    {
+      "file": "part-043.json",
+      "count": 5
+    },
+    {
+      "file": "part-044.json",
+      "count": 5
+    },
+    {
+      "file": "part-045.json",
+      "count": 5
+    },
+    {
+      "file": "part-046.json",
+      "count": 5
+    },
+    {
+      "file": "part-047.json",
+      "count": 5
+    },
+    {
+      "file": "part-048.json",
+      "count": 5
+    },
+    {
+      "file": "part-049.json",
+      "count": 5
+    },
+    {
+      "file": "part-050.json",
+      "count": 5
+    },
+    {
+      "file": "part-051.json",
+      "count": 5
+    },
+    {
+      "file": "part-052.json",
+      "count": 5
+    },
+    {
+      "file": "part-053.json",
+      "count": 5
+    },
+    {
+      "file": "part-054.json",
+      "count": 5
+    },
+    {
+      "file": "part-055.json",
+      "count": 5
+    },
+    {
+      "file": "part-056.json",
+      "count": 5
+    },
+    {
+      "file": "part-057.json",
+      "count": 5
+    },
+    {
+      "file": "part-058.json",
+      "count": 5
+    },
+    {
+      "file": "part-059.json",
+      "count": 5
+    },
+    {
+      "file": "part-060.json",
+      "count": 5
+    },
+    {
+      "file": "part-061.json",
+      "count": 5
+    },
+    {
+      "file": "part-062.json",
+      "count": 5
+    },
+    {
+      "file": "part-063.json",
+      "count": 5
+    },
+    {
+      "file": "part-064.json",
+      "count": 5
+    },
+    {
+      "file": "part-065.json",
+      "count": 5
+    },
+    {
+      "file": "part-066.json",
+      "count": 5
+    },
+    {
+      "file": "part-067.json",
+      "count": 5
+    },
+    {
+      "file": "part-068.json",
+      "count": 5
+    },
+    {
+      "file": "part-069.json",
+      "count": 5
+    },
+    {
+      "file": "part-070.json",
+      "count": 5
+    },
+    {
+      "file": "part-071.json",
+      "count": 5
+    },
+    {
+      "file": "part-072.json",
+      "count": 5
+    },
+    {
+      "file": "part-073.json",
+      "count": 5
+    },
+    {
+      "file": "part-074.json",
+      "count": 5
+    },
+    {
+      "file": "part-075.json",
+      "count": 5
+    },
+    {
+      "file": "part-076.json",
+      "count": 5
+    },
+    {
+      "file": "part-077.json",
+      "count": 5
+    },
+    {
+      "file": "part-078.json",
+      "count": 5
+    },
+    {
+      "file": "part-079.json",
+      "count": 5
+    },
+    {
+      "file": "part-080.json",
+      "count": 5
+    },
+    {
+      "file": "part-081.json",
+      "count": 5
+    },
+    {
+      "file": "part-082.json",
+      "count": 5
+    },
+    {
+      "file": "part-083.json",
+      "count": 5
+    },
+    {
+      "file": "part-084.json",
+      "count": 5
+    },
+    {
+      "file": "part-085.json",
+      "count": 1
+    }
+  ]
+}
