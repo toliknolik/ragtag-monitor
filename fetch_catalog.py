@@ -6,8 +6,17 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-# Parent covers all men's blouson categories; military is fetched separately as a coverage check.
-COLLECTIONS = ["men_blousonjackets", "men_blousonjackets_millitaryjackets"]
+# Use bounded subcollections instead of the very large parent collection.
+# The parent repeated product IDs near page 30; that is an incomplete pagination,
+# so do not accept it as a valid full snapshot.
+COLLECTIONS = [
+    "men_blousonjackets_millitaryjackets",
+    "men_blousonjackets_other",
+    "men_blousonjackets_denimjackets",
+    "men_blousonjackets_stadiumjackets",
+    "men_blousonjackets_ridersjackets",
+    "men_blousonjackets_workjackets",
+]
 LIMIT = 250
 
 def fetch_collection(collection):
@@ -48,9 +57,6 @@ def main():
     counts = {}
     for collection in COLLECTIONS:
         fetched[collection], counts[collection] = fetch_collection(collection)
-    parent_ids = {p["id"] for p in fetched[COLLECTIONS[0]]}
-    military_ids = {p["id"] for p in fetched[COLLECTIONS[1]]}
-    print(f"Parent: {len(parent_ids)}; military: {len(military_ids)}; military missing from parent: {len(military_ids-parent_ids)}")
     products = {}
     for collection in COLLECTIONS:
         for p in fetched[collection]:
