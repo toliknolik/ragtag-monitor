@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parent
 # so do not accept it as a valid full snapshot.
 COLLECTIONS = [
     "men_blousonjackets_millitaryjackets",
+    "men_blousonjackets_blousonjackets",
     "men_blousonjackets_other",
     "men_blousonjackets_denimjackets",
     "men_blousonjackets_stadiumjackets",
