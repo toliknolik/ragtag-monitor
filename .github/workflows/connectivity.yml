@@ -79,5 +79,18 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update RAGTAG catalog and chunks"
-            git push
+            # Another commit may have landed after checkout (e.g. an edit from ChatGPT).
+            # Rebase our generated snapshot onto the latest main before pushing.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Snapshot pushed successfully"
+                exit 0
+              fi
+              echo "Push raced with another update (attempt $attempt); retrying"
+              sleep $((attempt * 2))
+            done
+            echo "ERROR: Failed to push after 3 retries"
+            exit 1
           fi
