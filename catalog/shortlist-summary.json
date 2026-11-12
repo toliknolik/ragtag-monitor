@@ -1,7 +1,7 @@
 {
-  "total_scanned": 7995,
-  "matching_filters": 821,
-  "notable_matches": 362,
+  "total_scanned": 8031,
+  "matching_filters": 846,
+  "notable_matches": 376,
   "top": [
     {
       "id": "9388447072515",
@@ -1090,38 +1090,6 @@
       "score": 79
     },
     {
-      "id": "9568785268995",
-      "brand": "ACRONYM",
-      "title": "ACRONYM Millitary jackets",
-      "handle": "3511726l0002",
-      "url": "https://ragtag-global.com/products/3511726l0002",
-      "color": "Black",
-      "size": "L",
-      "width_cm": 67.0,
-      "length_cm": 60.0,
-      "sleeve_cm": 60.0,
-      "ratio": 1.117,
-      "material": "(Outer, Filling) 100% Polyester, (Lining) 100% Nylon",
-      "other_details": "Season: Autumn-Winter Pockets: Yes Outside Pockets: 6 Translucency: None Fabric thickness: thick Lining: Yes Elasticity: None Gloss: None Opening and closing: zipper Opening and shutting: Double zip Pattern: Plain Store information Product condition N Like new",
-      "padding": "not specified",
-      "season": "autumn/winter",
-      "price_raw": "201928",
-      "currency": "unverified",
-      "tags": [
-        "category_os",
-        "color_Black",
-        "condition_A",
-        "countryoforigin_China",
-        "gender_Mens",
-        "product-type_Blouson jackets",
-        "season_autumn/winter",
-        "size_L"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3511726l0002_1.jpg?v=1785449554",
-      "notable": true,
-      "score": 78
-    },
-    {
       "id": "9757177282819",
       "brand": "AMBUSH",
       "title": "AMBUSH Denim jackets",
@@ -1278,6 +1246,38 @@
         "size_M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3357226o3292_1.jpg?v=1793055657",
+      "notable": true,
+      "score": 78
+    },
+    {
+      "id": "9757177676035",
+      "brand": "AMBUSH",
+      "title": "AMBUSH Denim jackets",
+      "handle": "3357226o3294",
+      "url": "https://ragtag-global.com/products/3357226o3294",
+      "color": "Gray (denim)",
+      "size": "M",
+      "width_cm": 65.0,
+      "length_cm": 61.0,
+      "sleeve_cm": 61.0,
+      "ratio": 1.066,
+      "material": "100% cotton",
+      "other_details": "Season: All season Pockets: Yes Outside Pockets: 4 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: None Opening and closing: button Opening and closing: zipper Store information Product condition N Like new or almost new, may h",
+      "padding": "not specified",
+      "season": "unknown",
+      "price_raw": "30389",
+      "currency": "unverified",
+      "tags": [
+        "category_cj",
+        "color_Gray",
+        "condition_NEW",
+        "countryoforigin_Japan",
+        "gender_Mens",
+        "product-type_Blouson jackets",
+        "season_all-season",
+        "size_M"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3357226o3294_1.jpg?v=1793055671",
       "notable": true,
       "score": 78
     }
