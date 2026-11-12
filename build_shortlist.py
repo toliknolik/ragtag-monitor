@@ -23,7 +23,8 @@ def parse(p):
     variants=[v for v in p.get("variants",[]) if v.get("available") is True]
     if not variants:return None
     width,length,sleeve=cm("Width"),cm("Length"),cm("Sleeve length")
-    if width is None or length is None: return None
+    # Skip missing or invalid measurements before calculating the silhouette ratio.
+    if width is None or length is None or width <= 0 or length <= 0: return None
     if length>78 or width<52 or width/length<0.81:return None
     size=field("Size")
     tags=p.get("tags") or []
