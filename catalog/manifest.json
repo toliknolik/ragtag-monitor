@@ -10,12 +10,12 @@
   ],
   "collection_counts": {
     "men_blousonjackets_millitaryjackets": 426,
-    "men_blousonjackets_blousonjackets": 1058,
-    "men_blousonjackets_other": 5215,
-    "men_blousonjackets_denimjackets": 520,
-    "men_blousonjackets_stadiumjackets": 223,
-    "men_blousonjackets_ridersjackets": 337,
-    "men_blousonjackets_workjackets": 252
+    "men_blousonjackets_blousonjackets": 1050,
+    "men_blousonjackets_other": 5197,
+    "men_blousonjackets_denimjackets": 528,
+    "men_blousonjackets_stadiumjackets": 221,
+    "men_blousonjackets_ridersjackets": 333,
+    "men_blousonjackets_workjackets": 251
   },
   "page_counts": {
     "men_blousonjackets_millitaryjackets": [
@@ -27,7 +27,7 @@
       250,
       250,
       250,
-      58
+      50
     ],
     "men_blousonjackets_other": [
       250,
@@ -50,26 +50,26 @@
       250,
       250,
       250,
-      215
+      197
     ],
     "men_blousonjackets_denimjackets": [
       250,
       250,
-      20
+      28
     ],
     "men_blousonjackets_stadiumjackets": [
-      223
+      221
     ],
     "men_blousonjackets_ridersjackets": [
       250,
-      87
+      83
     ],
     "men_blousonjackets_workjackets": [
       250,
-      2
+      1
     ]
   },
-  "total_products": 8031,
+  "total_products": 8006,
   "complete": true,
   "parts": [
     {
@@ -6478,26 +6478,6 @@
     },
     {
       "file": "part-1602.json",
-      "count": 5
-    },
-    {
-      "file": "part-1603.json",
-      "count": 5
-    },
-    {
-      "file": "part-1604.json",
-      "count": 5
-    },
-    {
-      "file": "part-1605.json",
-      "count": 5
-    },
-    {
-      "file": "part-1606.json",
-      "count": 5
-    },
-    {
-      "file": "part-1607.json",
       "count": 1
     }
   ]
