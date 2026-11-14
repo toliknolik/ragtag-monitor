@@ -1723,38 +1723,6 @@
       "score": 53
     },
     {
-      "id": "9726669488387",
-      "brand": "B MING LIFE STORE by BEAMS",
-      "title": "B MING LIFE STORE by BEAMS Other",
-      "handle": "0371626o0001",
-      "url": "https://ragtag-global.com/products/0371626o0001",
-      "color": "Black",
-      "size": "S",
-      "width_cm": 61.0,
-      "length_cm": 53.5,
-      "sleeve_cm": 53.5,
-      "ratio": 1.14,
-      "material": "(Outer and lining) 100% nylon, (Filling) 100% polyester",
-      "other_details": "Season: Autumn-Winter Pockets: Yes Outside Pockets: 2 Translucency: None Fabric thickness: normal Lining: Yes Elasticity: None Gloss: None Opening and closing: button Pattern: Plain Store information Product condition N Like new or almost new, may have some im",
-      "padding": "not specified",
-      "season": "autumn/winter",
-      "price_raw": "10208",
-      "currency": "unverified",
-      "tags": [
-        "category_cj",
-        "color_Black",
-        "condition_B",
-        "countryoforigin_China",
-        "gender_Mens",
-        "product-type_Blouson jackets",
-        "season_autumn/winter",
-        "size_S"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/0371626o0001_1.jpg?v=1791846316",
-      "notable": false,
-      "score": 53
-    },
-    {
       "id": "9554621989123",
       "brand": "BALENCIAGA",
       "title": "BALENCIAGA Other",
@@ -2071,6 +2039,38 @@
         "size_M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/4103826a0005_1.jpg?v=1782868614",
+      "notable": false,
+      "score": 53
+    },
+    {
+      "id": "9411115909379",
+      "brand": "FreshService",
+      "title": "FreshService Other",
+      "handle": "9650626y0006",
+      "url": "https://ragtag-global.com/products/9650626y0006",
+      "color": "Black",
+      "size": "L",
+      "width_cm": 71.0,
+      "length_cm": 64.0,
+      "sleeve_cm": 64.0,
+      "ratio": 1.109,
+      "material": "100% polyester",
+      "other_details": "Season: Autumn-Winter Pockets: Yes Outside Pockets: 2 Translucency: None Fabric thickness: normal Lining: None Elasticity: Yes Gloss: None Opening and closing: snap button Store information Product condition N Like new or almost new, may have some improvements",
+      "padding": "not specified",
+      "season": "autumn/winter",
+      "price_raw": "28002",
+      "currency": "unverified",
+      "tags": [
+        "category_cj",
+        "color_Black",
+        "condition_B",
+        "countryoforigin_China",
+        "gender_Mens",
+        "product-type_Blouson jackets",
+        "season_autumn/winter",
+        "size_L"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/9650626y0006_1.jpg?v=1778801584",
       "notable": false,
       "score": 53
     }
