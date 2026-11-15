@@ -1,7 +1,7 @@
 {
   "total_scanned": 8053,
-  "matching_filters": 850,
-  "notable_matches": 379,
+  "matching_filters": 833,
+  "notable_matches": 375,
   "top": [
     {
       "id": "9388447072515",
@@ -930,38 +930,6 @@
       "score": 80
     },
     {
-      "id": "9764052599043",
-      "brand": "BEAMS",
-      "title": "BEAMS Millitary jackets",
-      "handle": "0101626o0053",
-      "url": "https://ragtag-global.com/products/0101626o0053",
-      "color": "Black x Gray",
-      "size": "S",
-      "width_cm": 63.0,
-      "length_cm": 60.0,
-      "sleeve_cm": 60.0,
-      "ratio": 1.05,
-      "material": "",
-      "other_details": "Season: Spring-Summer Pockets: Yes External pockets: 3 Translucency: None Fabric thickness: normal Lining: Yes Elasticity: None Gloss: Yes Opening and closing: zipper Store information Product condition N Like new or almost new, may have some improvements such",
-      "padding": "not specified",
-      "season": "spring/summer",
-      "price_raw": "14114",
-      "currency": "unverified",
-      "tags": [
-        "category_cj",
-        "color_Black",
-        "condition_B",
-        "countryoforigin_China",
-        "gender_Mens",
-        "product-type_Blouson jackets",
-        "season_spring/summer",
-        "size_S"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/0101626o0053_1.jpg?v=1793274625",
-      "notable": true,
-      "score": 80
-    },
-    {
       "id": "9332042039555",
       "brand": "N.HOOLYWOOD",
       "title": "N.HOOLYWOOD Other",
@@ -1278,6 +1246,38 @@
         "size_M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3357226o3292_1.jpg?v=1793055657",
+      "notable": true,
+      "score": 78
+    },
+    {
+      "id": "9757177676035",
+      "brand": "AMBUSH",
+      "title": "AMBUSH Denim jackets",
+      "handle": "3357226o3294",
+      "url": "https://ragtag-global.com/products/3357226o3294",
+      "color": "Gray (denim)",
+      "size": "M",
+      "width_cm": 65.0,
+      "length_cm": 61.0,
+      "sleeve_cm": 61.0,
+      "ratio": 1.066,
+      "material": "100% cotton",
+      "other_details": "Season: All season Pockets: Yes Outside Pockets: 4 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: None Opening and closing: button Opening and closing: zipper Store information Product condition N Like new or almost new, may h",
+      "padding": "not specified",
+      "season": "unknown",
+      "price_raw": "30389",
+      "currency": "unverified",
+      "tags": [
+        "category_cj",
+        "color_Gray",
+        "condition_NEW",
+        "countryoforigin_Japan",
+        "gender_Mens",
+        "product-type_Blouson jackets",
+        "season_all-season",
+        "size_M"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3357226o3294_1.jpg?v=1793055671",
       "notable": true,
       "score": 78
     }
