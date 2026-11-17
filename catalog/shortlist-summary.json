@@ -1,7 +1,7 @@
 {
-  "total_scanned": 7987,
-  "matching_filters": 831,
-  "notable_matches": 376,
+  "total_scanned": 8028,
+  "matching_filters": 837,
+  "notable_matches": 382,
   "top": [
     {
       "id": "9388447072515",
@@ -192,38 +192,6 @@
         "size_M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3362925d0026_1.jpg?v=1769513244",
-      "notable": true,
-      "score": 86
-    },
-    {
-      "id": "9800491860227",
-      "brand": "DESCENDANT",
-      "title": "DESCENDANT Other",
-      "handle": "3362926n0005",
-      "url": "https://ragtag-global.com/products/3362926n0005",
-      "color": "Blue-gray",
-      "size": "3 (Large)",
-      "width_cm": 62.0,
-      "length_cm": 52.5,
-      "sleeve_cm": 52.5,
-      "ratio": 1.181,
-      "material": "100% cotton",
-      "other_details": "Season: Spring-Summer Pockets: Yes Outside Pockets: 2 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: None Opening and closing: None Store information Product condition N Like new or almost new, may have some improvements such ",
-      "padding": "not specified",
-      "season": "spring/summer",
-      "price_raw": "26049",
-      "currency": "unverified",
-      "tags": [
-        "category_cj",
-        "color_Gray",
-        "condition_B",
-        "countryoforigin_Japan",
-        "gender_Mens",
-        "product-type_Blouson jackets",
-        "season_spring/summer",
-        "size_L"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/3362926n0005_1.jpg?v=1794519439",
       "notable": true,
       "score": 86
     },
@@ -512,6 +480,38 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/2006726o0101_1.jpg?v=1792965667",
       "notable": true,
       "score": 86
+    },
+    {
+      "id": "9810271535363",
+      "brand": "Faccies",
+      "title": "Faccies Other",
+      "handle": "9394526n0001",
+      "url": "https://ragtag-global.com/products/9394526n0001",
+      "color": "Black",
+      "size": "F",
+      "width_cm": 59.0,
+      "length_cm": 51.0,
+      "sleeve_cm": 51.0,
+      "ratio": 1.157,
+      "material": "100% cotton",
+      "other_details": "Season: Spring-Summer Pockets: Yes Outside Pockets: 2 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: None Opening and closing: None Store information Product condition N Like new or almost new, may have some improvements such ",
+      "padding": "not specified",
+      "season": "spring/summer",
+      "price_raw": "24747",
+      "currency": "unverified",
+      "tags": [
+        "category_cj",
+        "color_Black",
+        "condition_B",
+        "countryoforigin_Japan",
+        "gender_Mens",
+        "product-type_Blouson jackets",
+        "season_spring/summer",
+        "size_M"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/9394526n0001_1.jpg?v=1794845183",
+      "notable": true,
+      "score": 81
     },
     {
       "id": "9563343159555",

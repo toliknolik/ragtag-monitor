@@ -9,25 +9,25 @@
     "men_blousonjackets_workjackets"
   ],
   "collection_counts": {
-    "men_blousonjackets_millitaryjackets": 423,
-    "men_blousonjackets_blousonjackets": 1039,
-    "men_blousonjackets_other": 5196,
-    "men_blousonjackets_denimjackets": 522,
-    "men_blousonjackets_stadiumjackets": 221,
-    "men_blousonjackets_ridersjackets": 337,
-    "men_blousonjackets_workjackets": 249
+    "men_blousonjackets_millitaryjackets": 433,
+    "men_blousonjackets_blousonjackets": 1046,
+    "men_blousonjackets_other": 5218,
+    "men_blousonjackets_denimjackets": 529,
+    "men_blousonjackets_stadiumjackets": 217,
+    "men_blousonjackets_ridersjackets": 338,
+    "men_blousonjackets_workjackets": 247
   },
   "page_counts": {
     "men_blousonjackets_millitaryjackets": [
       250,
-      173
+      183
     ],
     "men_blousonjackets_blousonjackets": [
       250,
       250,
       250,
       250,
-      39
+      46
     ],
     "men_blousonjackets_other": [
       250,
@@ -50,25 +50,25 @@
       250,
       250,
       250,
-      196
+      218
     ],
     "men_blousonjackets_denimjackets": [
       250,
       250,
-      22
+      29
     ],
     "men_blousonjackets_stadiumjackets": [
-      221
+      217
     ],
     "men_blousonjackets_ridersjackets": [
       250,
-      87
+      88
     ],
     "men_blousonjackets_workjackets": [
-      249
+      247
     ]
   },
-  "total_products": 7987,
+  "total_products": 8028,
   "complete": true,
   "parts": [
     {
@@ -6461,7 +6461,39 @@
     },
     {
       "file": "part-1598.json",
-      "count": 2
+      "count": 5
+    },
+    {
+      "file": "part-1599.json",
+      "count": 5
+    },
+    {
+      "file": "part-1600.json",
+      "count": 5
+    },
+    {
+      "file": "part-1601.json",
+      "count": 5
+    },
+    {
+      "file": "part-1602.json",
+      "count": 5
+    },
+    {
+      "file": "part-1603.json",
+      "count": 5
+    },
+    {
+      "file": "part-1604.json",
+      "count": 5
+    },
+    {
+      "file": "part-1605.json",
+      "count": 5
+    },
+    {
+      "file": "part-1606.json",
+      "count": 3
     }
   ]
 }
