@@ -1,5 +1,5 @@
 {
-  "total_scanned": 8081,
+  "total_scanned": 8149,
   "matches": [
     {
       "id": "9814385656067",
@@ -286,6 +286,38 @@
         "size_S"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/0214226n0010_1.jpg?v=1794957202",
+      "notable": true,
+      "score": 86
+    },
+    {
+      "id": "9818971930883",
+      "brand": "KANEMASA PHIL.",
+      "title": "KANEMASA PHIL. Work jackets",
+      "handle": "a664926n0003",
+      "url": "https://ragtag-global.com/products/a664926n0003",
+      "color": "Black",
+      "size": "M",
+      "width_cm": 68.0,
+      "length_cm": 60.0,
+      "sleeve_cm": 60.0,
+      "ratio": 1.133,
+      "material": "55% polyester, 45% cotton",
+      "other_details": "Season: Spring-Summer Pockets: Yes Outside Pockets: 2 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: None Opening and closing: button Pattern: Plain Store information Product condition N Like new or almost new, may have some i",
+      "padding": "not specified",
+      "season": "spring/summer",
+      "price_raw": "34838",
+      "currency": "unverified",
+      "tags": [
+        "category_cj",
+        "color_Black",
+        "condition_A",
+        "countryoforigin_Japan",
+        "gender_Mens",
+        "product-type_Blouson jackets",
+        "season_spring/summer",
+        "size_M"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/a664926n0003_1.jpg?v=1795086383",
       "notable": true,
       "score": 86
     },
@@ -1532,38 +1564,6 @@
         "size_S"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/a885626s0001_1.jpg?v=1793406517",
-      "notable": true,
-      "score": 78
-    },
-    {
-      "id": "9598545494275",
-      "brand": "CDG",
-      "title": "CDG Other",
-      "handle": "2037026y0043",
-      "url": "https://ragtag-global.com/products/2037026y0043",
-      "color": "Black",
-      "size": "L",
-      "width_cm": 64.0,
-      "length_cm": 60.5,
-      "sleeve_cm": 60.5,
-      "ratio": 1.058,
-      "material": "(Outer, Inner, Padding) 100% Polyester, (Rib) 60% Acrylic, 25% Wool, 12% Nylon, 3% Polyurethane",
-      "other_details": "Season: Autumn-Winter Pockets: Yes Outside Pockets: 2 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: Yes Opening and closing: zipper Pattern: printed logo Store information Product condition N Like new or almost new, may have ",
-      "padding": "not specified",
-      "season": "autumn/winter",
-      "price_raw": "57731",
-      "currency": "unverified",
-      "tags": [
-        "category_md",
-        "color_Black",
-        "condition_NEW",
-        "countryoforigin_Japan",
-        "gender_Mens",
-        "product-type_Blouson jackets",
-        "season_autumn/winter",
-        "size_L"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/2037026y0043_1.jpg?v=1787010938",
       "notable": true,
       "score": 78
     },
@@ -3228,6 +3228,38 @@
       "score": 77
     },
     {
+      "id": "9819003322627",
+      "brand": "Maison Margiela",
+      "title": "Maison Margiela Other",
+      "handle": "2007426n0102",
+      "url": "https://ragtag-global.com/products/2007426n0102",
+      "color": "Black",
+      "size": "46 (M)",
+      "width_cm": 62.0,
+      "length_cm": 63.0,
+      "sleeve_cm": 63.0,
+      "ratio": 0.984,
+      "material": "68% cotton, 32% nylon",
+      "other_details": "Season: Spring-Summer Pocket: Yes Outside pocket: 1 Translucency: None Fabric thickness: normal Lining: None Elasticity: None Gloss: None Opening and closing: zipper Pattern: printed logo Store information Product condition N Like new or almost new, may have s",
+      "padding": "not specified",
+      "season": "spring/summer",
+      "price_raw": "105688",
+      "currency": "unverified",
+      "tags": [
+        "category_md",
+        "color_Black",
+        "condition_B",
+        "countryoforigin_Italy",
+        "gender_Mens",
+        "product-type_Blouson jackets",
+        "season_spring/summer",
+        "size_M"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/2007426n0102_1.jpg?v=1795089005",
+      "notable": true,
+      "score": 77
+    },
+    {
       "id": "9726587961603",
       "brand": "STONE ISLAND",
       "title": "STONE ISLAND Millitary jackets",
@@ -3386,38 +3418,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/0303926o0064_1.jpg?v=1792016335",
       "notable": true,
       "score": 77
-    },
-    {
-      "id": "9810601083139",
-      "brand": "COMME des GARCONS HOMME",
-      "title": "COMME des GARCONS HOMME Other",
-      "handle": "2000726n0057",
-      "url": "https://ragtag-global.com/products/2000726n0057",
-      "color": "Black",
-      "size": "M",
-      "width_cm": 59.0,
-      "length_cm": 59.0,
-      "sleeve_cm": 59.0,
-      "ratio": 1.0,
-      "material": "(Outer and lining) 100% polyester",
-      "other_details": "Season: Autumn-Winter Pockets: Yes, 2 outside pockets, 2 inside pockets Translucency: None Fabric thickness: normal Lining: Yes Elasticity: None Gloss: None Opening and closing: zipper Pattern: Plain Store information Product condition N Like new or almost new",
-      "padding": "not specified",
-      "season": "autumn/winter",
-      "price_raw": "66302",
-      "currency": "unverified",
-      "tags": [
-        "category_md",
-        "color_Black",
-        "condition_B",
-        "countryoforigin_Japan",
-        "gender_Mens",
-        "product-type_Blouson jackets",
-        "season_autumn/winter",
-        "size_M"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0643/3128/4739/files/2000726n0057_1.jpg?v=1794865996",
-      "notable": true,
-      "score": 73
     },
     {
       "id": "9697043218691",
