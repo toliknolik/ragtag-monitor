@@ -9,25 +9,25 @@
     "men_blousonjackets_workjackets"
   ],
   "collection_counts": {
-    "men_blousonjackets_millitaryjackets": 440,
-    "men_blousonjackets_blousonjackets": 1067,
-    "men_blousonjackets_other": 5289,
-    "men_blousonjackets_denimjackets": 540,
-    "men_blousonjackets_stadiumjackets": 217,
-    "men_blousonjackets_ridersjackets": 343,
-    "men_blousonjackets_workjackets": 253
+    "men_blousonjackets_millitaryjackets": 434,
+    "men_blousonjackets_blousonjackets": 1052,
+    "men_blousonjackets_other": 5212,
+    "men_blousonjackets_denimjackets": 539,
+    "men_blousonjackets_stadiumjackets": 213,
+    "men_blousonjackets_ridersjackets": 346,
+    "men_blousonjackets_workjackets": 256
   },
   "page_counts": {
     "men_blousonjackets_millitaryjackets": [
       250,
-      190
+      184
     ],
     "men_blousonjackets_blousonjackets": [
       250,
       250,
       250,
       250,
-      67
+      52
     ],
     "men_blousonjackets_other": [
       250,
@@ -50,27 +50,26 @@
       250,
       250,
       250,
-      250,
-      39
+      212
     ],
     "men_blousonjackets_denimjackets": [
       250,
       250,
-      40
+      39
     ],
     "men_blousonjackets_stadiumjackets": [
-      217
+      213
     ],
     "men_blousonjackets_ridersjackets": [
       250,
-      93
+      96
     ],
     "men_blousonjackets_workjackets": [
       250,
-      3
+      6
     ]
   },
-  "total_products": 8149,
+  "total_products": 8052,
   "complete": true,
   "parts": [
     {
@@ -6515,83 +6514,7 @@
     },
     {
       "file": "part-1611.json",
-      "count": 5
-    },
-    {
-      "file": "part-1612.json",
-      "count": 5
-    },
-    {
-      "file": "part-1613.json",
-      "count": 5
-    },
-    {
-      "file": "part-1614.json",
-      "count": 5
-    },
-    {
-      "file": "part-1615.json",
-      "count": 5
-    },
-    {
-      "file": "part-1616.json",
-      "count": 5
-    },
-    {
-      "file": "part-1617.json",
-      "count": 5
-    },
-    {
-      "file": "part-1618.json",
-      "count": 5
-    },
-    {
-      "file": "part-1619.json",
-      "count": 5
-    },
-    {
-      "file": "part-1620.json",
-      "count": 5
-    },
-    {
-      "file": "part-1621.json",
-      "count": 5
-    },
-    {
-      "file": "part-1622.json",
-      "count": 5
-    },
-    {
-      "file": "part-1623.json",
-      "count": 5
-    },
-    {
-      "file": "part-1624.json",
-      "count": 5
-    },
-    {
-      "file": "part-1625.json",
-      "count": 5
-    },
-    {
-      "file": "part-1626.json",
-      "count": 5
-    },
-    {
-      "file": "part-1627.json",
-      "count": 5
-    },
-    {
-      "file": "part-1628.json",
-      "count": 5
-    },
-    {
-      "file": "part-1629.json",
-      "count": 5
-    },
-    {
-      "file": "part-1630.json",
-      "count": 4
+      "count": 2
     }
   ]
 }
